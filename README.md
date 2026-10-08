@@ -221,4 +221,4 @@ Company of Heroes is offered as a full free version with all features and update
 Download Company of Heroes today and immerse yourself in the thrilling battles of World War II! Experience this complete package with all features included for free!
 
 ---
-**Last updated:** 2026-10-07 20:15:25 UTC
+**Last updated:** 2026-10-08 00:30:33 UTC
